@@ -34,6 +34,23 @@ A modern web-based platform designed to help users discover and connect with leg
 - **Icons**: Lucide React
 - **Deployment**: Vercel (recommended)
 
+## Documentation
+
+- **[README.md](README.md)** - This file (overview and quick start)
+- **[SETUP_GUIDE.md](SETUP_GUIDE.md)** - Detailed setup instructions with Neon Postgres
+- **[FEATURES.md](FEATURES.md)** - Complete feature documentation
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines
+
+## Quick Start
+
+For automated setup, run:
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+Or follow the manual setup below.
+
 ## Getting Started
 
 ### Prerequisites
